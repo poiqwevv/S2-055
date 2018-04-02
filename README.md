@@ -88,3 +88,7 @@ Content-Length: 2680
 利用成功
 
 ![exploit](https://github.com/iBearcat/S2-055/blob/master/exploit.gif?raw=true)
+
+## 相关链接
+
+https://paper.seebug.org/473/
