@@ -2,7 +2,7 @@
 
 #### 首先感谢绿盟科技的廖师傅提供的漏洞环境代码 https://github.com/shengqi158/S2-055-PoC
 
-#### 本exploit我和我的同事ahmatjan一起完成。 https://github.com/ahmatjan/
+#### 本exploit是和我上家工作单位同事ahmatjan一起完成 https://github.com/ahmatjan/
 
 利用过程
 
@@ -90,5 +90,6 @@ Content-Length: 2680
 ![exploit](https://github.com/iBearcat/S2-055/blob/master/exploit.gif?raw=true)
 
 ## 相关链接
+https://cwiki.apache.org/confluence/display/WW/S2-055
 
 https://paper.seebug.org/473/
