@@ -1,4 +1,4 @@
-# S2-055 反序列化漏洞Exploit CVE-2017-7525 
+# S2-055 反序列化漏洞 Exploit CVE-2017-7525 
 
 #### 首先感谢绿盟科技的廖师傅提供的漏洞环境代码 https://github.com/shengqi158/S2-055-PoC
 
